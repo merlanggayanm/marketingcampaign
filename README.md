@@ -56,14 +56,11 @@ Perform transformation on the current data value in the same range in each colum
 ![Google Drive Image](https://drive.google.com/uc?export=view&id=10qwAdharDt5JgFxXs0mGtC4Y_XjJMEjU)
 By using the Elbow Method, the largest percentage decrease lies in the number of clusters 3 and 4. Here, 4 clusters are selected.
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 60%;"
-    src="https://drive.google.com/uc?export=view&id=1HYJau0LNwv4l5aOr5LqXWn2VfwksG29f" 
-    alt="Our logo">
-</img>
+
+<p align="center">
+  <img width="460" height="300" src="https://drive.google.com/uc?export=view&id=1HYJau0LNwv4l5aOr5LqXWn2VfwksG29f">
+</p>
+
 Clustering evaluation using the Silhouette Score obtained the highest score at number 3. However, the results of the evaluation with the number of clusters based on the Elbow Method were still relatively high.
 
 ## Customer Personality Analysis for Marketing Retargeting
